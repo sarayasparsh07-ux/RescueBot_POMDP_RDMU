@@ -1,0 +1,13 @@
+# Tested with Python 3.13 and the versions noted on each line.
+numpy>=1.26,<3        # tested 2.5.3
+pandas>=2.1,<4        # tested 3.0.5
+matplotlib>=3.8,<4    # tested 3.11.2
+plotly>=5.20,<8       # tested 7.1.0
+streamlit>=1.50,<2    # tested 1.67.0
+# notebook execution
+jupyter>=1.0
+nbformat>=5.9         # tested 5.11.1
+nbconvert>=7.10       # tested 7.17.2
+ipykernel>=6.29       # tested 7.4.0
+# tests
+pytest>=8.0           # tested 9.1.1
